@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWorkApp</string>
+    <string name="title_text">Login panel</string>
+        <string name="login_hint">Login</string>
+        <string name="pass_hint">Password</string>
+        <string name="enter_button_text">Enter</string>
+        <string name="result_ok">True</string>
+        <string name="result_wrong">Error. Try to input another login or password</string>
+
+</resources>
